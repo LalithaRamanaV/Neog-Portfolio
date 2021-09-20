@@ -43,7 +43,7 @@ a{
 }
 #footer {
     /* background-color:#13ABAF; */
-    padding: 2rem 2rem 2rem;
+    padding: 1rem 1rem 1rem;
     font-size: 15px;
     text-align: center;
      position:absolute;
@@ -54,20 +54,20 @@ a{
   .footer-icon {
     font-size: 1.5rem;
     color: #3b82f6;
-    width: 20px;
-    height: 20px;
+    width: 10px;
+    height: 10px;
     margin: 0.5px;
     margin-right: 10px;
     margin-bottom: var(--mb-4);
   }
   .footer-social {
     margin-bottom: var(--mb-4);
-    padding-bottom: 10px;
+    padding-top: 10px;
   }
   
   #footer #header {
     color: black;
-    padding-top: 10px;
+    /* padding-top: 10px; */
     font-size: large !important;
   }
   
@@ -80,7 +80,8 @@ a{
   .footer-title {
     color: #7d7d7d;
     font-size: 20px;
-    margin-bottom: 20px;
+    padding:5px;
+    /* margin-bottom: 10px; */
   }
   a {
     display: inline;
