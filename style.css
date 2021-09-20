@@ -40,6 +40,8 @@ a{
 }
 .logo{
     padding:1rem;
+    /* font-family: 'Varela Round', sans-serif; */
+    font-family: 'Cookie', cursive;
 }
 #footer {
     /* background-color:#13ABAF; */
